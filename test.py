@@ -7,3 +7,4 @@ def test_1():
     return
 
 test_1()
+test_1()
